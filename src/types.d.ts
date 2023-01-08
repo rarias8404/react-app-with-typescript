@@ -4,3 +4,10 @@ export interface Sub {
   subMonths: number
   description?: string
 }
+
+export type SubsResponse = Array<{
+  nick: string
+  months: number
+  profileUrl: string
+  description: string
+}>

@@ -1,0 +1,22 @@
+{
+  "subs": [
+    {
+      "nick": "dapelu",
+      "month": 3,
+      "profileUrl": "https://i.pravatar.cc/150?u=dapelu",
+      "description": "Dapelu hace de moderador a veces"
+    },
+    {
+      "nick": "steven",
+      "month": 7,
+      "profileUrl": "https://i.pravatar.cc/150?u=steven",
+      "description": "Fake sub"
+    },
+    {
+      "nick": "jack bauer",
+      "month": 7,
+      "profileUrl": "https://i.pravatar.cc/150?u=jackbauer",
+      "description": "24 Hours TV Show"
+    }
+  ]
+}
